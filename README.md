@@ -4,4 +4,4 @@
 + :bug: Freelance Security Researcher 
 
 Links:
-+ <a href=https://huntr.dev/users/ohb00>Huntr.dev</a>
++ <a href=https://huntr.dev/users/ohb00>huntr.dev</a>
