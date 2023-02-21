@@ -4,4 +4,4 @@
 + :bug: Freelance Security Researcher 
 
 Links:
-+ <img src=https://huntr.dev/favicon.ico style=border:rounded> https://huntr.dev/users/ohb00
++ <a href=https://huntr.dev/users/ohb00>Huntr.dev</a>
